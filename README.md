@@ -1,3 +1,3 @@
 # Yolo
 
-Achievement on github
+Achievement on github repo
